@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mawportfolio/static/css/main.7b1894ea.chunk.css",
-    "main.js": "/mawportfolio/static/js/main.ed51b959.chunk.js",
-    "main.js.map": "/mawportfolio/static/js/main.ed51b959.chunk.js.map",
+    "main.js": "/mawportfolio/static/js/main.02924acb.chunk.js",
+    "main.js.map": "/mawportfolio/static/js/main.02924acb.chunk.js.map",
     "runtime-main.js": "/mawportfolio/static/js/runtime-main.a89c2e82.js",
     "runtime-main.js.map": "/mawportfolio/static/js/runtime-main.a89c2e82.js.map",
     "static/css/2.0a9ec390.chunk.css": "/mawportfolio/static/css/2.0a9ec390.chunk.css",
@@ -28,7 +28,7 @@
     "static/media/grid.6c1bf4b0.png": "/mawportfolio/static/media/grid.6c1bf4b0.png",
     "static/media/Dark_homeDesktop.css": "/mawportfolio/static/media/home-background.00bcab35.png",
     "static/media/java.74329a08.png": "/mawportfolio/static/media/java.74329a08.png",
-    "static/media/light_home-portafolio.01f79f7e.jpg": "/mawportfolio/static/media/light_home-portafolio.01f79f7e.jpg",
+    "static/media/light_home-portafolio.9f3e7569.jpg": "/mawportfolio/static/media/light_home-portafolio.9f3e7569.jpg",
     "static/media/localStorage.09711f39.png": "/mawportfolio/static/media/localStorage.09711f39.png",
     "static/media/logo-dark-mode.1fbddd08.mp4": "/mawportfolio/static/media/logo-dark-mode.1fbddd08.mp4",
     "static/media/logo-light-mode.fde26671.mp4": "/mawportfolio/static/media/logo-light-mode.fde26671.mp4",
@@ -44,6 +44,6 @@
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.26a68f44.chunk.js",
     "static/css/main.7b1894ea.chunk.css",
-    "static/js/main.ed51b959.chunk.js"
+    "static/js/main.02924acb.chunk.js"
   ]
 }
