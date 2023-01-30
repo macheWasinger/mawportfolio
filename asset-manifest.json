@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mawportfolio/static/css/main.5ba96f50.chunk.css",
+    "main.css": "/mawportfolio/static/css/main.670b1401.chunk.css",
     "main.js": "/mawportfolio/static/js/main.4b87d715.chunk.js",
     "main.js.map": "/mawportfolio/static/js/main.4b87d715.chunk.js.map",
     "runtime-main.js": "/mawportfolio/static/js/runtime-main.a89c2e82.js",
@@ -10,7 +10,7 @@
     "static/js/2.26a68f44.chunk.js.map": "/mawportfolio/static/js/2.26a68f44.chunk.js.map",
     "index.html": "/mawportfolio/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/mawportfolio/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.5ba96f50.chunk.css.map": "/mawportfolio/static/css/main.5ba96f50.chunk.css.map",
+    "static/css/main.670b1401.chunk.css.map": "/mawportfolio/static/css/main.670b1401.chunk.css.map",
     "static/js/2.26a68f44.chunk.js.LICENSE.txt": "/mawportfolio/static/js/2.26a68f44.chunk.js.LICENSE.txt",
     "static/media/CV_Wasinger-Marcelo-Adrian.c9f8e9f3.pdf": "/mawportfolio/static/media/CV_Wasinger-Marcelo-Adrian.c9f8e9f3.pdf",
     "static/media/api-search-meli.dd1957d6.png": "/mawportfolio/static/media/api-search-meli.dd1957d6.png",
@@ -22,11 +22,11 @@
     "static/media/canva.3c3e6d67.png": "/mawportfolio/static/media/canva.3c3e6d67.png",
     "static/media/crud-clinica.0f44b27e.png": "/mawportfolio/static/media/crud-clinica.0f44b27e.png",
     "static/media/dark_home-portafolio.9cfb3866.jpg": "/mawportfolio/static/media/dark_home-portafolio.9cfb3866.jpg",
+    "static/media/Dark_homeDesktop.css": "/mawportfolio/static/media/sun5.5376f268.png",
     "static/media/destinoArg.0ecdf01f.jpg": "/mawportfolio/static/media/destinoArg.0ecdf01f.jpg",
     "static/media/Dark_sobreMiMobile.css": "/mawportfolio/static/media/dots.9b033438.png",
     "static/media/Dark_conocimientosDesktop.css": "/mawportfolio/static/media/fondoConocimiento.e0b94bc3.png",
     "static/media/grid.6c1bf4b0.png": "/mawportfolio/static/media/grid.6c1bf4b0.png",
-    "static/media/Dark_homeDesktop.css": "/mawportfolio/static/media/home-background.00bcab35.png",
     "static/media/java.74329a08.png": "/mawportfolio/static/media/java.74329a08.png",
     "static/media/light_home-portafolio.12558ed7.jpg": "/mawportfolio/static/media/light_home-portafolio.12558ed7.jpg",
     "static/media/localStorage.09711f39.png": "/mawportfolio/static/media/localStorage.09711f39.png",
@@ -43,7 +43,7 @@
     "static/js/runtime-main.a89c2e82.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.26a68f44.chunk.js",
-    "static/css/main.5ba96f50.chunk.css",
+    "static/css/main.670b1401.chunk.css",
     "static/js/main.4b87d715.chunk.js"
   ]
 }
