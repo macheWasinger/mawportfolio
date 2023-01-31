@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mawportfolio/static/css/main.226ec54a.chunk.css",
-    "main.js": "/mawportfolio/static/js/main.5412d34e.chunk.js",
-    "main.js.map": "/mawportfolio/static/js/main.5412d34e.chunk.js.map",
+    "main.js": "/mawportfolio/static/js/main.762fcc99.chunk.js",
+    "main.js.map": "/mawportfolio/static/js/main.762fcc99.chunk.js.map",
     "runtime-main.js": "/mawportfolio/static/js/runtime-main.a89c2e82.js",
     "runtime-main.js.map": "/mawportfolio/static/js/runtime-main.a89c2e82.js.map",
     "static/css/2.0a9ec390.chunk.css": "/mawportfolio/static/css/2.0a9ec390.chunk.css",
@@ -44,6 +44,6 @@
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.26a68f44.chunk.js",
     "static/css/main.226ec54a.chunk.css",
-    "static/js/main.5412d34e.chunk.js"
+    "static/js/main.762fcc99.chunk.js"
   ]
 }
