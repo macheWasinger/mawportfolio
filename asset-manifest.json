@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mawportfolio/static/css/main.bd89011f.chunk.css",
-    "main.js": "/mawportfolio/static/js/main.ff4e4d1a.chunk.js",
-    "main.js.map": "/mawportfolio/static/js/main.ff4e4d1a.chunk.js.map",
+    "main.js": "/mawportfolio/static/js/main.268b76dd.chunk.js",
+    "main.js.map": "/mawportfolio/static/js/main.268b76dd.chunk.js.map",
     "runtime-main.js": "/mawportfolio/static/js/runtime-main.a89c2e82.js",
     "runtime-main.js.map": "/mawportfolio/static/js/runtime-main.a89c2e82.js.map",
     "static/css/2.0a9ec390.chunk.css": "/mawportfolio/static/css/2.0a9ec390.chunk.css",
@@ -12,7 +12,7 @@
     "static/css/2.0a9ec390.chunk.css.map": "/mawportfolio/static/css/2.0a9ec390.chunk.css.map",
     "static/css/main.bd89011f.chunk.css.map": "/mawportfolio/static/css/main.bd89011f.chunk.css.map",
     "static/js/2.26a68f44.chunk.js.LICENSE.txt": "/mawportfolio/static/js/2.26a68f44.chunk.js.LICENSE.txt",
-    "static/media/CV_Wasinger-Marcelo-Adrian.c9f8e9f3.pdf": "/mawportfolio/static/media/CV_Wasinger-Marcelo-Adrian.c9f8e9f3.pdf",
+    "static/media/CV_Marcelo-Adrian-Wasinger.0092290d.pdf": "/mawportfolio/static/media/CV_Marcelo-Adrian-Wasinger.0092290d.pdf",
     "static/media/api.e5735fed.png": "/mawportfolio/static/media/api.e5735fed.png",
     "static/media/apiMeliDesktop.7dcb73a5.jpg": "/mawportfolio/static/media/apiMeliDesktop.7dcb73a5.jpg",
     "static/media/apiMeliDesktop_search.ec670484.jpg": "/mawportfolio/static/media/apiMeliDesktop_search.ec670484.jpg",
@@ -54,6 +54,6 @@
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.26a68f44.chunk.js",
     "static/css/main.bd89011f.chunk.css",
-    "static/js/main.ff4e4d1a.chunk.js"
+    "static/js/main.268b76dd.chunk.js"
   ]
 }
