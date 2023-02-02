@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/mawportfolio/static/css/main.e407fb7f.chunk.css",
-    "main.js": "/mawportfolio/static/js/main.a1b8d6c4.chunk.js",
-    "main.js.map": "/mawportfolio/static/js/main.a1b8d6c4.chunk.js.map",
+    "main.css": "/mawportfolio/static/css/main.0dd9357b.chunk.css",
+    "main.js": "/mawportfolio/static/js/main.878c4110.chunk.js",
+    "main.js.map": "/mawportfolio/static/js/main.878c4110.chunk.js.map",
     "runtime-main.js": "/mawportfolio/static/js/runtime-main.a89c2e82.js",
     "runtime-main.js.map": "/mawportfolio/static/js/runtime-main.a89c2e82.js.map",
     "static/css/2.0a9ec390.chunk.css": "/mawportfolio/static/css/2.0a9ec390.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.26a68f44.chunk.js.map": "/mawportfolio/static/js/2.26a68f44.chunk.js.map",
     "index.html": "/mawportfolio/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/mawportfolio/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.e407fb7f.chunk.css.map": "/mawportfolio/static/css/main.e407fb7f.chunk.css.map",
+    "static/css/main.0dd9357b.chunk.css.map": "/mawportfolio/static/css/main.0dd9357b.chunk.css.map",
     "static/js/2.26a68f44.chunk.js.LICENSE.txt": "/mawportfolio/static/js/2.26a68f44.chunk.js.LICENSE.txt",
     "static/media/CV_Marcelo-Adrian-Wasinger.0092290d.pdf": "/mawportfolio/static/media/CV_Marcelo-Adrian-Wasinger.0092290d.pdf",
     "static/media/api.e5735fed.png": "/mawportfolio/static/media/api.e5735fed.png",
@@ -54,7 +54,7 @@
     "static/js/runtime-main.a89c2e82.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.26a68f44.chunk.js",
-    "static/css/main.e407fb7f.chunk.css",
-    "static/js/main.a1b8d6c4.chunk.js"
+    "static/css/main.0dd9357b.chunk.css",
+    "static/js/main.878c4110.chunk.js"
   ]
 }
