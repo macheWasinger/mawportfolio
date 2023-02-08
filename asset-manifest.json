@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mawportfolio/static/css/main.a51e8a22.chunk.css",
+    "main.css": "/mawportfolio/static/css/main.6a722682.chunk.css",
     "main.js": "/mawportfolio/static/js/main.1ac3a24e.chunk.js",
     "main.js.map": "/mawportfolio/static/js/main.1ac3a24e.chunk.js.map",
     "runtime-main.js": "/mawportfolio/static/js/runtime-main.a89c2e82.js",
@@ -10,7 +10,7 @@
     "static/js/2.26a68f44.chunk.js.map": "/mawportfolio/static/js/2.26a68f44.chunk.js.map",
     "index.html": "/mawportfolio/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/mawportfolio/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.a51e8a22.chunk.css.map": "/mawportfolio/static/css/main.a51e8a22.chunk.css.map",
+    "static/css/main.6a722682.chunk.css.map": "/mawportfolio/static/css/main.6a722682.chunk.css.map",
     "static/js/2.26a68f44.chunk.js.LICENSE.txt": "/mawportfolio/static/js/2.26a68f44.chunk.js.LICENSE.txt",
     "static/media/CV_Marcelo-Adrian-Wasinger.0092290d.pdf": "/mawportfolio/static/media/CV_Marcelo-Adrian-Wasinger.0092290d.pdf",
     "static/media/api.e5735fed.png": "/mawportfolio/static/media/api.e5735fed.png",
@@ -54,7 +54,7 @@
     "static/js/runtime-main.a89c2e82.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.26a68f44.chunk.js",
-    "static/css/main.a51e8a22.chunk.css",
+    "static/css/main.6a722682.chunk.css",
     "static/js/main.1ac3a24e.chunk.js"
   ]
 }
